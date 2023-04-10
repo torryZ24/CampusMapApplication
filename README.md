@@ -10,7 +10,6 @@ The Campus Map Application is a JavaFX-based desktop software designed to help s
     - [Main View](#main-view)
     - [Editor Mode](#editor-mode)
     - [Account Information](#account-information)
-    - [Running the Application from .jar file](#running-the-application-from-.jar-file]
 - [Running the Tests](#running-the-tests)
 - [Additional Information](#additional-information)
 - [Authors](#authors)
@@ -52,7 +51,7 @@ The Campus Map Application is a JavaFX-based desktop software designed to help s
 3. The current weather information will be displayed bottom of the application.
 4. The application will display the main view. Utilize the application as described in the [Main View](#main-view) and [Editor Mode](#editor-mode) sections.
 
-## Running the Application from .jar file
+### Running the Application from .jar file
 1. Go to the terminal and navigate to the directory where the .jar file is located.
 2. Run the following command:
    `java -jar CampusMapApplication.jar`
@@ -79,7 +78,6 @@ The Campus Map Application is a JavaFX-based desktop software designed to help s
 14. If the user clicked on the user-created POIs, the add button will be enabled.
 15. To sign out and return to log-in view, click on the SignOut button in the top left toolbar, any changes will be automatically saved.
 16. To close the application, click on the "x".
-
 
 ### Editor Mode
 1. To enable Editor Mode, click on the Editing Mode button in the toolbar on top right corner of application.
