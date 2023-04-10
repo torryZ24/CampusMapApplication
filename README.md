@@ -10,6 +10,7 @@ The Campus Map Application is a JavaFX-based desktop software designed to help s
     - [Main View](#main-view)
     - [Editor Mode](#editor-mode)
     - [Account Information](#account-information)
+    - [Running the Application from .jar file](#running-the-application-from-.jar-file]
 - [Running the Tests](#running-the-tests)
 - [Additional Information](#additional-information)
 - [Authors](#authors)
